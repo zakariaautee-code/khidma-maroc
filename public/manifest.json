@@ -1,0 +1,17 @@
+{
+  "name": "Khidma Maroc",
+  "short_name": "Khidma",
+  "description": "Trouvez votre prochain emploi au Maroc (Casablanca, Rabat, Tanger...)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#006c49",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
